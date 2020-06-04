@@ -1,6 +1,6 @@
 **Mode Backend - Node JS Express**<br/>
 click[here](https://mode-app.herokuapp.com/) to view the app<br/>
-
+![](modestack.gif)
 to run it locally<br/>
 -git clone https://github.com/Gauthamjm007/mode-app.git<br/>
 -cd mode-app<br/>
